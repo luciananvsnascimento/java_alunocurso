@@ -1,4 +1,4 @@
-#Desafio Java - Backend
+# Desafio Java - Backend
 
 Este é o backend de um sistema de gerenciamento de cursos, desenvolvido em **Spring Boot**. Ele permite o cadastro e consulta de alunos e cursos, além da inscrição de alunos em cursos.
 
